@@ -35,3 +35,7 @@ if [[ -n "$2" ]]; then
     done
 fi
 
+echo "1) Utilitiy Script"
+echo "2) Read file script.sh"
+echo "3) Delete Script"
+echo "4) Quit"

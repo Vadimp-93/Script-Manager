@@ -67,6 +67,8 @@ list_files
 count_files_by_extension
 folder_total_size
 
-# Invoke the read.sh script at the end
-echo "Running read.sh..."
-./read.sh
+echo "1) Utilitiy Script"
+echo "2) Read file script.sh"
+echo "3) Delete Script"
+echo "4) Quit"
+
