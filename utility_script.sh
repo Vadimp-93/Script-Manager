@@ -67,6 +67,7 @@ list_files
 count_files_by_extension
 folder_total_size
 
+echo "  "
 echo "1) Utilitiy Script"
 echo "2) Read file script.sh"
 echo "3) Delete Script"

@@ -46,7 +46,10 @@ while [[ $choice == "y" ]]; do
 	delete_file_or_directory $path
 	read -p "would you like to delete something else?" choice
 done
+
 echo "you chose not to delete anything. good bye"
+
+echo "  "
 echo "1) Utilitiy Script"
 echo "2) Read file script.sh"
 echo "3) Delete Script"
